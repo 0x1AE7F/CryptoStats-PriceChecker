@@ -5,7 +5,7 @@ import time
 # Get your token by chatting with BotFather:
 # Create your own bot by calling /newbot and giving it a Name + Username.
 # After that you will get your http api token.. Paste it below!
-botToken = "5629707692:AAFoB31K7003skX9Iqsdf72Y9zaX1HoBqLQ"
+botToken = "0000000000abcdefghijklmnopqrstuvwxyz"
 
 # You need to get a chatID of your chat:
 # To get this, first dm the bot and then paste this in your browser url bar:
